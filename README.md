@@ -2,7 +2,7 @@
 
 A web-based tool to test browser support for various video codecs using the MediaRecorder API. This tool helps developers and users quickly identify which video codecs are supported in their current browser and test recording capabilities. Originally developed to assist in the development of SnapAR CameraKit applications, but might be handy for other purposes.
 
-🔗 **Live Demo**: [https://newyellow.idv.tw/projects/codec-test](https://newyellow.idv.tw/projects/codec-test)
+🔗 **Live Demo**: [https://newyellow.idv.tw/projects/codec-check](https://newyellow.idv.tw/projects/codec-check)
 
 ## Features
 
