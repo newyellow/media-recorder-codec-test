@@ -31,30 +31,6 @@ The tool tests support for various video codecs including:
    - Automatically download the recorded file
    - File extension will match the codec type (.webm, .mp4, or .ogv)
 
-## Browser Compatibility
-
-This tool works best in modern browsers that support the MediaRecorder API:
-- Chrome
-- Firefox
-- Edge
-- Safari (limited support)
-
-## Local Development
-
-To run this project locally:
-
-1. Clone the repository
-2. Open `index.html` in a web browser
-3. No build process or dependencies required
-
 ## License
 
 This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
